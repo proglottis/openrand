@@ -17,7 +17,7 @@ openrand
 
 Open any random video in the current directory tree
 ```
-openrand -m=vidio
+openrand -m=video
 ```
 
 
